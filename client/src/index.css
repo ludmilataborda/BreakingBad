@@ -5,6 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url("C:\Users\tyt\Desktop\pi repaso breakingbad\RepasoPI-BreakingBad\client\src\green_smoke_by_daatte-d5nzz5r-e1401364204269.jpg");
+  background-size: cover;
+  opacity: 0.90;
 }
 
 code {

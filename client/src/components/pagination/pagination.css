@@ -1,0 +1,39 @@
+
+
+.pagination  {
+    list-style:none;
+    display: flex;
+    flex-direction:row;
+     margin-top: 50px;
+    margin-left: 320px;
+    width: 500px;
+    height: 70px;
+    justify-content: space-between;
+    
+}
+/* .numberStyles a:hover:not(.active) {
+    background-color: #ddd;} */
+
+
+.center{
+    text-align:center;
+     height: 40px;
+    width: 40px;
+}
+.numberStyles { 
+    color: rgb(209, 198, 198);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 17px;
+    font-weight: 600;
+     margin-bottom:60px;
+     background-color: rgb(124, 171, 164);
+    border: 2px solid rgb(15, 103, 90);
+}
+
+  
+    
+ .numberStyles:hover {
+            color:rgb(59, 3, 40);
+            background-color: rgb(169, 214, 229);
+            border: 2px solid rgb(132, 205, 230);
+        }
